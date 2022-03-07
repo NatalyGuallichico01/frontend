@@ -11,8 +11,8 @@ import { Ward } from './Ward';
 export class ClientelaravelService {
 
   // wardsUrl:string = "http://127.0.0.1:8000/api/wards"
-  // wardsUrl:string = "https://appcarcelesfront.herokuapp.com/api/wards"
-  wardsUrl:string = "http://appcarceles.herokuapp.com/api/wards"
+  wardsUrl:string = "https://appcarcelesfront.herokuapp.com/api/wards"
+  // wardsUrl:string = "http://appcarceles.herokuapp.com/api/wards"
 
  
 
